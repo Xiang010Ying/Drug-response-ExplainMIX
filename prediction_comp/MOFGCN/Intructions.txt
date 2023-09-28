@@ -1,4 +1,0 @@
-Because the overall file is large, we have included some of the code. If you want to learn more about these comparison methods, please refer to the links and references below：
-
-https://github.com/weiba/MOFGCN
-Peng W, Chen T, Dai W. Predicting drug response based on multi-omics fusion and graph convolution[J]. IEEE Journal of Biomedical and Health Informatics, 2021, 26(3): 1384-1393.

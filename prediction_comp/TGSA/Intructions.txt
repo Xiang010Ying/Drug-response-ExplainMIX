@@ -1,4 +1,0 @@
-Because the overall file is large, we have included some of the code. If you want to learn more about these comparison methods, please refer to the links and references below：
-
-https://github.com/violet-sto/TGSA
-Zhu, Yiheng, et al. "TGSA: protein–protein association-based twin graph neural networks for drug response prediction with similarity augmentation." Bioinformatics 38.2 (2022): 461-468.

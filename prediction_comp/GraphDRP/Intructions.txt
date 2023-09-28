@@ -1,4 +1,0 @@
-Because the overall file is large, we have included some of the code. If you want to learn more about these comparison methods, please refer to the links and references below：
-
-https://github.com/hauldhut/GraphDRP
-https://pubmed.ncbi.nlm.nih.gov/33606633/
