@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./ExplainMIX/picture/logo1.png" alt="avatar">
+  <img src="[./ExplainMIX/picture/logo1.png](https://github.com/Xiang010Ying/Drug-response-ExplainMIX/blob/main/picture/logo1.png)" alt="avatar">
 </div>
 <center>A approach that fuses multi-omics data within heterogeneous graph neural networks to tackle the fundamental challenges of drug response prediction.</center>  
 
