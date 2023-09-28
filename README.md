@@ -64,7 +64,8 @@ Furthermore, we evaluate the quality and effectiveness of our interpretation met
     import weight_utils
     import tensorflow as tf
 
-    # The computation of logical semantic graph structures involves the generation and analysis of graph-like representations that capture logical and semantic relationships within data.
+    # The computation of logical semantic graph structures involves the generation and analysis of graph-like
+    # representations that capture logical and semantic relationships within data.
     weight_calulate = weight_utils.Weight_Cal()
 
         for head, rel, tail , true_exp in tf_data:
