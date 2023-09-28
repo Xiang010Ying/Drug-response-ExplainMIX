@@ -15,7 +15,7 @@ This paper introduces ExplainMIX, a approach that fuses multi-omics data within 
 
 <br/>
 <div align="center">
-  <img src="./ExplainMIX/picture/overview1.png" alt="avatar">
+  <img src="https://github.com/Xiang010Ying/Drug-response-ExplainMIX/blob/main/picture/overview1.png" alt="avatar">
 </div>
 <br/>
 
