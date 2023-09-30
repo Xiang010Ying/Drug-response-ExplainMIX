@@ -45,7 +45,6 @@ triples = triples0+triples1
 train_triples, test_triples = train_test_split(triples, test_size=2968, random_state = 42, shuffle =True)#12348  11  42 22 123
 print('train_triples',len(train_triples))
 
-# cell_line=pd.read_csv(r'D:\XIAOXIANG\可解释性实验\data\CCLE\CCLE_Characteristic\6_multiple_omic_data\all_6_data_sim_4(1).csv',index_col=0)
 
 """
 cell-lines ---- cell lines
