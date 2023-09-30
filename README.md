@@ -6,11 +6,11 @@
 <br/><br/>
 
 # Drug-response-ExplainMIX
-## Why we Start this Research?
+## Why we start this research?
 In the field of drug response prediction, substantial progress has been made, driven by cutting-edge technologies like deep learning. These advancements have resulted in remarkably accurate predictions, raising hopes for more effective treatments. However, the translation of these promising models from research to clinical practice faces significant hurdles. One of the most formidable challenges is the inherent "black-box" nature of these advanced algorithms.
 
 Clinicians and researchers are confronted with the predicament of relying on predictions without comprehending the rationale behind them. In the context of healthcare, especially in critical decisions involving patient well-being, having insight into why a particular prediction is made is paramount. Without this transparency, the adoption of predictive models in clinical settings remains limited.
-## Overview of our Research Content
+## Overview of our research content
 This paper introduces ExplainMIX, a approach that fuses multi-omics data within heterogeneous graph neural networks to tackle the fundamental challenges of drug response prediction. ExplainMIX adeptly captures intricate structures and nuanced semantics within heterogeneous graphs, enhancing both predictive and interpretive capabilities. By leveraging node-level information and logical semantics for edge interpretation, our model significantly improves prediction and interpretative prowess. Empirical results validate its efficacy in prediction and interpretation tasks. ExplainMIX's ability to provide meaningful insights into drug response prediction positions it as a valuable tool for precision medicine researchers and beyond.
 
 <br/>
