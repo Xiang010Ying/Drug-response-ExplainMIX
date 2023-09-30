@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Xiang010Ying/Drug-response-ExplainMIX/blob/main/picture/logo1.png" alt="avatar">
+  <img src="https://github.com/Xiang010Ying/Drug-response-ExplainMIX/blob/main/picture/explainMIX_logo.png" alt="avatar">
 </div>
 <center>A approach that fuses multi-omics data within heterogeneous graph neural networks to tackle the fundamental challenges of drug response prediction.</center>  
 
@@ -15,7 +15,7 @@ This paper introduces ExplainMIX, a approach that fuses multi-omics data within 
 
 <br/>
 <div align="center">
-  <img src="https://github.com/Xiang010Ying/Drug-response-ExplainMIX/blob/main/picture/overview1.png" alt="avatar">
+  <img src="https://github.com/Xiang010Ying/Drug-response-ExplainMIX/blob/main/picture/overview_img.png" alt="avatar">
 </div>
 <br/>
 
