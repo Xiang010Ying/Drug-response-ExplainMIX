@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/Xiang010Ying/Drug-response-ExplainMIX/blob/main/picture/explainMIX_logo.png" alt="avatar">
 </div>
-<center>Explaining Drug Response Prediction in Directed Graph Neural Networks with Multi-Omics Fusion.</center>  
+<center>  Explaining Drug Response Prediction in Directed Graph Neural Networks with Multi-Omics Fusion. </center>  
 
 <br/><br/>
 
